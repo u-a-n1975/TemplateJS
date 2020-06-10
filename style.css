@@ -16,3 +16,7 @@ body {
   align-items: center;
   background-color: rgba(35, 150, 100, 0.2);
 }
+.test h1 {
+  font-weight: 900;
+  color: gold;
+}
